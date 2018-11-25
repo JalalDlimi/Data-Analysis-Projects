@@ -61,8 +61,6 @@ df.isnull().sum()
 # I used inplace=True to avoid re-assigning the dataframe
 df.drop('county_name', axis=1, inplace=True)
 
-# alternative method :
-# ri.dropna(axis='columns', how='all').shape """
 
 
 # In[8]:
