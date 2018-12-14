@@ -12,4 +12,9 @@
 * The city of Chicago released a dataset of socioeconomic data to the Chicago City Portal. It contains a selection of six socioeconomic indicators of public health significance and a “hardship index,” for each Chicago community area, for the years 2008 – 2012.
 
 
+#### <a href="https://github.com/JalalDlimi/Data-Analysis-Projects/tree/master/Customer%20Segmentation%20using%20K-means"> 3rd Project</a>: Customer Segmentation with K-Means <a href="https://github.com/JalalDlimi/Data-Analysis-Projects/blob/master/Customer%20Segmentation%20using%20K-means/Customer_Segmentation.csv">(Dataset Here)</a>
+* Despite the simplicity of K-means, it is vastly used for clustering in many data science applications, especially useful if we need to quickly discover insights from unlabeled data. In this notebook, I'll be using K-means for customer segmentation.
+
+
+
 
