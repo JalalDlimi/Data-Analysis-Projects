@@ -54,7 +54,7 @@ df.isnull().sum()
 
 
 # As you can notice, we have a whole column with missing values ("county_name") - we will delete it!
-# I used inplace=True to avoid re-assigning the dataframe
+# I used inplace=True to avoid re-assigning the dataframe --
 df.drop('county_name', axis=1, inplace=True)
 
 # alternative method :
